@@ -1,0 +1,20 @@
+[project]
+name = "projet-pfa"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "av>=16.1.0",
+    "bs4>=0.0.2",
+    "easyocr>=1.7.2",
+    "numpy>=2.3.5",
+    "opencv-python>=4.13.0.92",
+    "paddleocr>=3.5.0",
+    "paddlepaddle>=3.3.1",
+    "pillow>=12.2.0",
+    "streamlit>=1.56.0",
+    "streamlit-webrtc>=0.72.1",
+    "torch>=2.11.0",
+    "ultralytics>=8.4.41",
+]
