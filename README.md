@@ -1,0 +1,1 @@
+# Syst-me-Intelligent-de-D-tection-en-Temps-R-el-des-quipements-de-Protection-M-dicale
